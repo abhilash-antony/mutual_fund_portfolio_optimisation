@@ -25,4 +25,4 @@ To run this project, the following software were installed and used:
 - NumPy
 - Plotly
 
-![Sample Plot](images/sample_plot.png)
+![Sample Plot](img/newplot_1.png)
