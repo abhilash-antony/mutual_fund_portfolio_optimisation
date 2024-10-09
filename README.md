@@ -25,4 +25,13 @@ To run this project, the following software were installed and used:
 - NumPy
 - Plotly
 
-[Sample Plot](img/newplot_1.png)
+## Note on Plotly Visualizations
+
+Due to rendering issues, the plots generated using Plotly may not be visible within the Jupyter Notebook on GitHub. To ensure access to these visualizations, we have provided links to the corresponding images, along with their line numbers in the notebook for your convenience. We appreciate your understanding and encourage you to refer to the linked images for a complete view of the analysis.
+
+- line 26: [Stock Price Trends](img/newplot_1.png)
+- [Second Plot](img/newplot_2.png)
+- [Third Plot](img/newplot_3.png)
+- [Fourth Plot](img/newplot_4.png)
+- [Fifth Plot](img/newplot_5.png)
+- [Sixth Plot](img/newplot_6.png)
