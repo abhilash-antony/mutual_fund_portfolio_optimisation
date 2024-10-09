@@ -24,3 +24,5 @@ To run this project, the following software were installed and used:
 - Pandas
 - NumPy
 - Plotly
+
+![Sample Plot](images/sample_plot.png)
