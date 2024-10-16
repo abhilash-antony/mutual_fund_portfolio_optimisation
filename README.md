@@ -24,3 +24,8 @@ To run this project, the following software were installed and used:
 - Pandas
 - NumPy
 - Plotly
+
+---
+**Author**: Abhilash Antony  
+**GitHub**: [abhilash-antony](https://github.com/abhilash-antony)  
+**Date**: September 2024
